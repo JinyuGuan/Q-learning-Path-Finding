@@ -51,7 +51,7 @@ colormap('gray')
 image(NewMap)
 axis equal
 
-path = 'C:\Users\guanj\OneDrive\Documents\MATLAB\Qlearning\Barrier\TestMaps\map';
+path = 'C:\...\map';
 imwrite(uint8(NewMap), [path, num2str(1), '.jpg'])
 %% Q-Table Pattern
 colora(1) = 0;
