@@ -7,7 +7,7 @@
 * **MapRecharge**
 * **ActionScanner**
 
-### Agent Fuctions
+### Agent Functions
 * **ActiontoState**
 * **Qlearning**
 * **RMGenerator**
